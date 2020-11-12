@@ -1,0 +1,89 @@
+/***************************TAG SELECTORS***************************/
+
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50 auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat' sans-serif;
+  font-size: 2.5rem
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat' sans-serif;
+}
+
+body {
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+}
+
+a {
+
+    color: #11999E;
+
+}
+
+/***************************CLASS SELECTORS***************************/
+
+
+.top-container {
+  background-color: #e8ffff;
+  position: relative;
+  padding-top: 100px;
+  line-height: 0.5;
+
+}
+
+.middle-container {
+  background-color: #e8ffff;
+  position: relative;
+}
+
+.bottom-container {
+  background-color: #e8ffff;
+  position: relative;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 25%;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 25%;
+}
+
+.me-image {
+  border-radius: 100%;
+  height: 11%;
+  width: 11%;
+}
+
+.printing-skills-icon {
+  border-radius: 100%;
+  height: 11%;
+  width: 11%;
+}
+
+.soccer-skills-icon {
+  border-radius: 100%;
+  height: 11%;
+  width: 11%;
+}
+
+.subtitle {
+
+
+  font-weight: normal;
+}
